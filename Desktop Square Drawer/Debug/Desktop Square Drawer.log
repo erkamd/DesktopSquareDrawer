@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\hegza\documents\visual studio 2015\projects\desktop square drawer\desktop square drawer\main.cpp(117): warning C4244: '=': conversion from 'LRESULT' to 'unsigned short', possible loss of data
+c:\users\hegza\documents\visual studio 2015\projects\desktop square drawer\desktop square drawer\main.cpp(252): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Desktop Square Drawer.vcxproj -> C:\Users\Hegza\documents\visual studio 2015\Projects\Desktop Square Drawer\Debug\Desktop Square Drawer.exe
+  Desktop Square Drawer.vcxproj -> C:\Users\Hegza\documents\visual studio 2015\Projects\Desktop Square Drawer\Debug\Desktop Square Drawer.pdb (Partial PDB)
